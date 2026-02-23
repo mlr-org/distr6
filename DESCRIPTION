@@ -114,7 +114,7 @@ Suggests:
 Remotes:
     xoopR/ooplah,
     xoopR/set6,
-    xoopR/param6
+    mlr-org/param6
 LinkingTo:
     Rcpp
 VignetteBuilder:
