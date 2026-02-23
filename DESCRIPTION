@@ -112,6 +112,7 @@ Suggests:
     rmarkdown,
     testthat
 Remotes:
+    xoopR/ooplah,
     xoopR/set6,
     xoopR/param6
 LinkingTo:
